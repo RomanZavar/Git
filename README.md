@@ -17,4 +17,4 @@
 1. *Italics.*
 2. **bold**
 3. ## subhead
-4. ~ strikeouts
+4. ~strikeouts
