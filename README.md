@@ -14,10 +14,10 @@
 
 ## Markdown first steps
 
-1. *Italics.*
-2. **bold**
-3. ## subhead
-4. ~strikeouts
+1. *Italics.* - обрамляем текст звездочками
+2. **bold** - обромляем текск двумя звездочками
+3. ## subhead - двойной хэш тэг для позоголовка
+4. ~strikeouts - не работает зачеркивания)
 
 ## Lists
 
